@@ -1,6 +1,6 @@
 This is a simple [PHP](https://php.org/) application starter
 
-## Getting Started13e
+## Getting Started13e3
 
 Modify the logic of your the PHP application in the `app/index.php` file.
 
